@@ -1,19 +1,10 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Análisis de oportunidades para emprender',
+    Description:
+      'Detectar ideas con potencial es una competencia esencial en el proceso emprendedor, ya que permite identificar necesidades no satisfechas en el entorno y transformarlas en soluciones innovadoras, sostenibles y viables. Este análisis de oportunidades, sustentado en herramientas estratégicas, constituye la base para una toma de decisiones informada, convirtiéndose en el punto de partida hacia el desarrollo y consolidación de iniciativas empresariales exitosas.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/img-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
-    imagenesDecorativasBanner: [
-      {
-        clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
-      },
-      {
-        clases: ['banner-principal-decorativo-2'],
-        imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
-      },
-    ],
   },
   menuPrincipal: {
     menu: [
@@ -31,27 +22,52 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Tema 1',
+        titulo: 'Liderazgo, retos y estrategias para permanecer en el mercado',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Subtema 1',
+            titulo: 'Dinámicas y herramientas empresarial en Colombia',
             hash: 't_1_1',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Tema 2',
+        titulo: 'Oportunidades para emprender',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Importancia de este análisis para emprender',
+            hash: 't_2_1',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Tema 3',
+        titulo: 'Metodología CANVAS del entorno',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo:
+              'Profundización en las fuerzas macroeconómicas y del entorno competitivo de este modelo CANVAS',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Desarrollo del mapa estratégico',
+            hash: 't_3_2',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Análisis PESTEL',
         desarrolloContenidos: true,
       },
     ],
