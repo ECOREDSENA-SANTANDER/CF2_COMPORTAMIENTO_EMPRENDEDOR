@@ -160,7 +160,7 @@ export default {
     {
       termino: 'Modelo de negocio',
       significado:
-        'estructura conceptual que define como una organización crea, entrega y captura valor para sus clientes y stakeholders.',
+        'estructura conceptual que define como una organización crea, entrega y captura valor para sus clientes y <em>stakeholders</em>.',
     },
     {
       termino: 'Segmentación de mercado',
