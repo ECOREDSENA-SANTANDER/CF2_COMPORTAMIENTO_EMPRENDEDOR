@@ -16,7 +16,7 @@
         .row.bgazulmateclaro.align-items-start.py-2.mb-0
           .col-auto
             img.mt-1(src='@/assets/curso/t2/img2.png', alt='')
-          .col
+          .col-lg.col-md.col-12
             p.mt-1 En este sentido, es necesario comprender que las empresas no operan de forma aislada: están insertas en un sistema financiero y forman parte de un subsistema productivo que, a su vez, se articula dentro de un sistema económico más amplio. Este sistema se encuentra influenciado por distintos entornos, los cuales pueden clasificarse en:
 
 
