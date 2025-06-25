@@ -134,10 +134,55 @@
     #t_3_1.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 3.1.	Profundización en las fuerzas macroeconómicas y del entorno competitivo de este modelo CANVAS 
 
+    p.mb-5 Al aplicar el modelo CANVAS del entorno en el diseño de un modelo de negocio, es esencial comprender cómo los factores macroeconómicos y competitivos actúan como condicionantes externos que pueden influir decisivamente en la viabilidad del emprendimiento. Estos elementos no solo contextualizan la operación del negocio, sino que también permiten anticipar riesgos, identificar oportunidades y diseñar estrategias de adaptación sostenibles.
+
+    .row.bgpersonal3.align-items-center.p-4.py-5
+      .col-lg-12.col-12.px-lg-5.px-4
+        .row.justify-content-center
+          .tarjeta.tarjeta--blanca.p-4.py-1(data-aos="fade-down")
+              SlyderA(tipo="b")
+                .row.justify-content-center.align-items-start
+                  .col-sm-12.col-md-12.col-lg-6
+                    h3.mt-4 Análisis integral de las fuerzas macroeconómicas
+                    p.mb-2 Además de identificar las condiciones macroeconómicas, el mercado de capitales, los #[em commodities] y la infraestructura, es crucial tener en cuenta la interdependencia sistémica de estos elementos. Por ejemplo, un entorno inflacionario puede alterar simultáneamente los precios de los #[em commodities], encarecer el acceso al crédito y generar inestabilidad en los mercados financieros, afectando directamente los costos de operación y la planificación del flujo de caja.
+                    p.mb-4 Asimismo, el análisis macroeconómico debe considerar la política monetaria y fiscal del país: decisiones sobre tasas de interés, tipo de cambio, subsidios o incentivos sectoriales inciden en la rentabilidad esperada del negocio. Por tanto, emprender sin un diagnóstico del entorno económico general puede conducir a decisiones erradas sobre precios, inversiones o expansión.
+                    .row.bgazulmateclaro
+                      p.px-4.py-2 En escenarios de incertidumbre, herramientas como el análisis de sensibilidad o de escenarios permiten proyectar distintos contextos económicos futuros y preparar planes de contingencia, aspecto indispensable para la sostenibilidad de cualquier emprendimiento.
+                  .col-6.col-md-6.col-lg-4
+                    img.mt-5(src='@/assets/curso/t3/tar1-1.png' alt='')
+                .row.justify-content-center.align-items-start
+                  .col-sm-12.col-md-12.col-lg-6
+                    h3.mt-4 Poder de negociación de clientes y proveedores
+                    p.mb-2 Más allá de la fijación de precios, estos actores impactan la experiencia del usuario y la cadena de valor completa. En la economía actual, los clientes están empoderados por la información y las plataformas digitales, por lo que el valor percibido, la personalización del servicio y la reputación #[em online] son variables clave para sostener su fidelidad. Del mismo modo, la dependencia excesiva de un solo proveedor puede comprometer la continuidad del negocio frente a disrupciones logísticas o políticas comerciales adversas.
+                  .col-6.col-md-6.col-lg-4
+                    img.mt-5(src='@/assets/curso/t3/tar1-2.png' alt='')
+                .row.justify-content-center.align-items-start
+                  .col-sm-12.col-md-12.col-lg-6
+                    h3.mt-4 Nuevos competidores y productos sustitutos
+                    p.mb-2 El ingreso de nuevos jugadores en el mercado no solo depende de factores regulatorios o barreras de entrada, sino también del grado de innovación y digitalización del ecosistema empresarial. Por ejemplo, un emprendimiento tradicional puede verse rápidamente desplazado por #[em startups] que integran modelos de negocio basados en economía colaborativa, automatización o inteligencia artificial.
+                    .row.bgazulmateclaro
+                      p.px-4.py-2 En cuanto a los sustitutos, ya no se trata únicamente de productos equivalentes, sino de soluciones alternativas que satisfacen la misma necesidad de forma más eficiente, sostenible o accesible. Por ello, el análisis competitivo debe ampliar su mirada para incluir tecnologías emergentes y patrones de consumo que aún no son evidentes, pero que pueden escalar rápidamente.
+                  .col-6.col-md-6.col-lg-4
+                    img.mt-5(src='@/assets/curso/t3/tar1-3.png' alt='')
+                .row.justify-content-center.align-items-start
+                  .col-sm-12.col-md-12.col-lg-6
+                    h3.mt-4 Rivalidad entre competidores
+                    p.mb-2 Esta fuerza no solo mide la cantidad de actores en el mercado, sino también el grado de diferenciación, la velocidad de innovación, la sensibilidad al precio del consumidor y la estrategia de posicionamiento. Mercados altamente saturados obligan a los nuevos emprendimientos a desarrollar propuestas de valor altamente innovadoras, que puedan romper con los esquemas tradicionales y generar ventajas competitivas difíciles de imitar.
+                  .col-6.col-md-6.col-lg-4
+                    img.mt-5(src='@/assets/curso/t3/tar1-4.png' alt='')
+                .row.justify-content-center.align-items-start
+                  .col-sm-12.col-md-12.col-lg-6
+                    h3.mt-4 Hacia un enfoque estratégico dinámico
+                    p.mb-2 La interacción entre las fuerzas macroeconómicas, competitivas y las tendencias clave exige que el emprendedor adopte una visión sistémica y flexible de su modelo de negocio; no basta con evaluar el entorno en la etapa inicial del proyecto, es fundamental mantener un proceso constante de monitoreo y ajuste.
+                    p.mb-4 Instrumentos como la vigilancia tecnológica, la inteligencia de mercados y el análisis prospectivo se convierten en aliados estratégicos para anticiparse a los cambios del entorno. De este modo, el modelo CANVAS deja de ser un simple lienzo estático para transformarse en una herramienta viva, que evoluciona con el contexto y permite al emprendimiento mantenerse relevante, competitivo y resiliente.
+                  .col-6.col-md-6.col-lg-4
+                    img.mt-5(src='@/assets/curso/t3/tar1-5.png' alt='')
 
     Separador  
     #t_3_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in-left")
       h2 3.2. Desarrollo del mapa estratégico
+
+    
 
 
 
