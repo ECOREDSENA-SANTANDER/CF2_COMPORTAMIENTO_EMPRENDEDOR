@@ -129,7 +129,7 @@
                     span.mb-0 ¿Existen niveles aceptables de estabilidad en indicadores como tasa de cambio, inflación y tasas de interés?
                   li
                     i.fas.fa-check-circle
-                    span.mb-0 ¿Hay incentivos financieros o fiscales para nuevos emprendimientos, especialmente en sectores estratégic?
+                    span.mb-0 ¿Hay incentivos financieros o fiscales para nuevos emprendimientos, especialmente en sectores estratégicos?
           .tarjeta.bgazulclaro2.p-4(titulo="Factores sociales")
             .row.justify-content-center
               .col-lg-12

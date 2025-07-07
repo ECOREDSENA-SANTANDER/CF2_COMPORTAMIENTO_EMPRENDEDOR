@@ -185,10 +185,10 @@ export default {
     {
       termino: 'Tendencia',
       significado:
-        'patrón de comportamiento de fenómenos o procesos que se orientan en una dirección determinada a largo del tiempo, y que son útiles para análisis y planificación.',
+        'patrón de comportamiento de fenómenos o procesos que se orientan en una dirección determinada a lo largo del tiempo, sin constituirse en una ley, pero útiles para el análisis descriptivo en investigaciones tempranas.',
     },
     {
-      termino: 'Target o público objetivo',
+      termino: '<em>Target</em> o público objetivo',
       significado:
         'grupo de consumidores a los que se dirige una estrategia de mercado, definida por criterios demográficos, geográficos, psicográficos o conductuales.',
     },

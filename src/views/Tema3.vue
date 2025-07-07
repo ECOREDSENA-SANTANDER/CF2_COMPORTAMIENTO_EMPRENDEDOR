@@ -24,7 +24,7 @@
       .col-lg-5.col-md-7.col-sm-12
         img(src='@/assets/curso/t3/img2.png', alt='')
       .col-lg-7.col-md-12.col-sm-12
-        p Conocido como Business Model Canvas, fue desarrollado por Alexander Osterwalder en 2011, y se considera una herramienta estratégica que permite diseñar, visualizar, evaluar y reinventar modelos de negocio, tanto en etapas iniciales como en procesos de mejora o cierre, por esta razón representa, de manera simplificada, los elementos clave que definen el funcionamiento de un modelo de negocio, estructurados en bloques interrelacionados.
+        p Conocido como #[em Business Model Canvas], fue desarrollado por Alexander Osterwalder en 2011, y se considera una herramienta estratégica que permite diseñar, visualizar, evaluar y reinventar modelos de negocio, tanto en etapas iniciales como en procesos de mejora o cierre, por esta razón representa, de manera simplificada, los elementos clave que definen el funcionamiento de un modelo de negocio, estructurados en bloques interrelacionados.
         .row.bgverdemate2
           p.px-4.mt-3 Cuando se aplica desde la perspectiva del entorno, el modelo se amplía para considerar factores externos que inciden directamente en la viabilidad del negocio; estos factores se agrupan en cuatro áreas fundamentales; cada una de estas áreas permite comprender cómo interactúa el negocio con su contexto externo y facilita la toma de decisiones estratégicas. 
 
@@ -72,7 +72,7 @@
                     i.fas.fa-check-circle
                     span.mb-0 #[b Disponibilidad de recursos y #[em commodities:]] acceso a materias primas, energía y otros insumos esenciales.
                 p.px-4.mt-4 Estos elementos influyen de manera directa en la sostenibilidad y en los costos operativos del negocio. Un entorno macroeconómico estable favorece la inversión y el crecimiento empresarial.
-          .tarjeta.bgazulclaro2.p-4(titulo="Actores y dinámicas en la competencia del negocio")
+          .tarjeta.bgazulclaro2.p-4(titulo="Fuerzas del entorno competitivo")
             .row.justify-content-center
               .col-lg-12
                 p.px-4 Aquí se identifican los actores y dinámicas que configuran la competencia del negocio.
@@ -98,7 +98,7 @@
                     span.mb-0
                       | #[b Productos y servicios sustitutos:] alternativas que podrían reemplazar la oferta actual.
                 p.px-4.mt-4 Este análisis permite identificar amenazas, ventajas comparativas y factores clave para diferenciarse y posicionarse en el mercado. El modelo de las cinco fuerzas de Porter, si bien es un referente clásico en el estudio de la competitividad, debe integrarse a una lectura contemporánea que considere los nuevos actores digitales, las plataformas tecnológicas, y los cambios acelerados en los hábitos de consumo.
-          .tarjeta.bgazulclaro2.p-4(titulo="Tendencias estructurales y emergentes")
+          .tarjeta.bgazulclaro2.p-4(titulo="Tendencias clave")
             .row.justify-content-center
               .col-lg-12
                 p.px-4 Se refiere a los cambios estructurales o emergentes que pueden transformar el entorno del negocio a corto, mediano o largo plazo. Considera:
@@ -240,7 +240,7 @@
     p.mb-4 El análisis de los socios clave trasciende la cadena de suministros, ya que incluye todas aquellas alianzas estratégicas que fortalecen el ecosistema del emprendimiento y permiten enfocar recursos y esfuerzos en las actividades fundamentales del negocio.
 
     .row.justify-content-center.align-items-center.mb-4.bgverdemate2
-      p.px-4.py-3.mb-0 La herramienta que se presenta a continuación le permitirá organizar de manera estructurada los componentes esenciales del modelo, examinar con profundidad su propuesta de valor y tomar decisiones estratégicas bien fundamentadas. Su propósito es facilitar la aplicación práctica de los conceptos abordados, guiando al emprendedor en la construcción progresiva de su propio modelo de negocio
+      p.px-4.py-3.mb-0 La herramienta que se presenta a continuación le permitirá organizar de manera estructurada los componentes esenciales del modelo, examinar con profundidad su propuesta de valor y tomar decisiones estratégicas bien fundamentadas. Su propósito es facilitar la aplicación práctica de los conceptos abordados, guiando al emprendedor en la construcción progresiva de su propio modelo de negocio.
 
     .tarjeta.color-primario.p-3(data-aos="fade").mb-5
       .row.justify-content-around.align-items-center
@@ -469,7 +469,7 @@
           ul.lista-ul--color.marron.fa-al.p-4.mb-0
             li
               i.fas.fa-check-circle
-              span.mb-0 ¿Las relaciones con los clientes son personalizadas, automatizadas o mixtas? (por ejemplo: atención en punto de venta, call center, correo electrónico, autoservicio, comunidades, entre otros).
+              span.mb-0 ¿Las relaciones con los clientes son personalizadas, automatizadas o mixtas? (por ejemplo: atención en punto de venta, #[em call center], correo electrónico, autoservicio, comunidades, entre otros).
             li
               i.fas.fa-check-circle
               span.mb-0 ¿El modelo de relación se orienta a la adquisición de nuevos clientes, la retención de los actuales o al incremento en las ventas?
