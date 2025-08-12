@@ -128,7 +128,7 @@ export default {
       referencia:
         'SENA. (2023, 15 de marzo). Modelo CANVAS para emprendedores.',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=DQhdG8uRVCM',
+      link: 'https://youtu.be/PvRaG2Eef6o',
     },
   ],
   glosario: [
