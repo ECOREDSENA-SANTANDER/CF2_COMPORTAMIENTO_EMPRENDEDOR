@@ -33,7 +33,7 @@
     .row.justify-content-center.align-items-start.mb-5(data-aos="fade")
       .col-lg-12.col-md-12.col-sm-12
         TabsA.color-acento-botones
-          .tarjeta.bgazulclaro2.p-4(titulo="Fuerzas del mercado")
+          .tarjeta.bgazulclaro2.p-4(titulo="Fuerza de mercado")
             .row.justify-content-center
               .col-lg-12
                 p.px-4 Esta dimensión se enfoca en el análisis del comportamiento del consumidor y las dinámicas propias del mercado objetivo. Incluye:
@@ -54,7 +54,7 @@
                     i.fas.fa-check-circle
                     span.mb-0 #[b Atractivo de los ingresos:] potencial de rentabilidad que representa cada segmento.
                 p.px-4.mt-4 El análisis de estas fuerzas permite comprender a quién está dirigido el producto o servicio, cómo satisface una necesidad específica y qué tan rentable puede ser, considerando factores como la localización geográfica o el alcance digital.
-          .tarjeta.bgazulclaro2.p-4(titulo="Fuerzas Macroeconómicas")
+          .tarjeta.bgazulclaro2.p-4(titulo="Fuerza macroeconómica")
             .row.justify-content-center
               .col-lg-12
                 p.px-4 Este componente examina las condiciones económicas generales que impactan al entorno empresarial. Abarca:

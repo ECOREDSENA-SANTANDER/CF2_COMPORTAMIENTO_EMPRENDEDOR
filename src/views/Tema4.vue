@@ -55,7 +55,7 @@
                   .col-8.my-2
                     img.img-a.img-t(src='@/assets/curso/t4/tar1-5.png' alt='AvatarTop')
                 .bgverde
-                  h4.text-center.p-1.text-white Ecológico (Ambiental)
+                  h4.text-center.p-1.text-white Ecológico (ambiental)
                 p.mb-0.text-center.mt-2 Se refiere a factores relacionados con la sostenibilidad, normativas ambientales, cambio climático y responsabilidad ambiental.
               .tarjeta.bgazulclaro.p-2.p-lg-4.p-md-3
                 .row.justify-content-center.mb-3
