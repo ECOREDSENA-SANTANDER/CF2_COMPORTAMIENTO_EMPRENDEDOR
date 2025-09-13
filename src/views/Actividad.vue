@@ -20,7 +20,7 @@ export default {
       tema: 'Análisis de oportunidades para emprender',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Identificar conocimientos clave sobre el análisis de oportunidades y factores del entorno para el emprendimiento sostenible, aplicando conceptos estratégicos como CANVAS y PESTEL.',
+        '<b> Objetivo:</b> identificar conocimientos clave sobre el análisis de oportunidades y factores del entorno para el emprendimiento sostenible, aplicando conceptos estratégicos como CANVAS y PESTEL.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',

@@ -150,7 +150,7 @@ export default {
     {
       termino: 'Mercado',
       significado:
-        'conjunto de consumidores identificables, con necesidades específicas, que están dispuestos a intercambiar bienes o servicios en un entorno regido por la ley oferta y demanda.',
+        'conjunto de consumidores identificables, con necesidades específicas, que están dispuestos a intercambiar bienes o servicios en un entorno regido por la ley de oferta y demanda.',
     },
     {
       termino: 'Monopolio',
